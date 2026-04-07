@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { PieChart, Pie, Cell, Tooltip } from "recharts";
+
 
 export default function GithubStats() {
   const [repos, setRepos] = useState([]);
