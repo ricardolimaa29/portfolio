@@ -1,0 +1,4 @@
+"devDependencies": {
+  "vite": "^x.x.x",
+  "@vitejs/plugin-react": "^x.x.x" 
+}
